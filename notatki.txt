@@ -1,0 +1,1 @@
+Torque about (0,0): -0.00113284 N*m dla domyslnej gestosci siatki
